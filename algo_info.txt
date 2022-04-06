@@ -1,0 +1,9 @@
+path=YOLOX_outputs/yolox_s_mix_det/track_vis/2022_04_06_11_52_52/MOT17-02-DPM_lf_2.mp4
+path=YOLOX_outputs/yolox_s_mix_det/track_vis/2022_04_06_11_53_56/MOT17-02-DPM_lf_2.mp4
+path=output.mp4
+path=output.mp4
+path=Traceback (most recent call last):
+  File "/home/abenmabrouk/Documents/Projects/MOT/MLbriefs/ByteTrack/ByteTrack/tools/search_out_file.py", line 11, in <module>
+    print(found)
+NameError: name 'found' is not defined
+path=output.mp4

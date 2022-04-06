@@ -1,0 +1,31 @@
+#python3.9
+numpy==1.21.2 #.20.1 too?
+-f https://download.pytorch.org/whl/cpu/torch_stable.html
+torch==1.11.0+cpu
+#opencv-contrib-python-headless==4.5.5.64
+opencv-python
+loguru
+scikit-image
+tqdm
+-f https://download.pytorch.org/whl/cpu/torch_stable.html
+torchvision==0.12.0+cpu
+Pillow
+thop
+ninja
+tabulate
+tensorboard
+lap==0.4.0
+motmetrics
+filterpy
+h5py
+pycocotools
+#cython_bbox
+#cython==0.29.23
+#yolox @ git+https://github.com/ifzhang/ByteTrack.git
+
+
+
+# verified versions
+#onnx==1.8.1
+#onnxruntime==1.8.0
+#onnx-simplifier==0.3.5
